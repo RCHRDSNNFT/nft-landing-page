@@ -99,7 +99,7 @@ section {
 
 .countdown {
   display: display-legacy;
-  flex-direction: column;
+  flex-direction: syntax-row;
   justify-content: center;
   align-items: center;
   height: 100%;
