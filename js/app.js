@@ -1,7 +1,7 @@
 // METAMASK CONNECTION
 const TIMEOUT = 1000;
-const COLLECTION_NAME = 'CodeCats';
-let editions = [];
+const COLLECTION_NAME = 'The Unsigned Artists';
+let editions = [3300];
 let dots = 1;
 
 window.addEventListener('DOMContentLoaded', () => {
