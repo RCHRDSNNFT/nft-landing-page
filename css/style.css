@@ -98,7 +98,7 @@ section {
 }
 
 .countdown {
-  display: flex;
+  display: display-legacy;
   flex-direction: column;
   justify-content: center;
   align-items: center;
